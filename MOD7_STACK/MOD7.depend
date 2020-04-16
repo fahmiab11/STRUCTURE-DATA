@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1585207591 source:d:\data tugas program\struktur data\mod7_stack\main_1302194037.cpp
+	"header_1302194037.h"
+	<iostream>
+
+1585207373 d:\data tugas program\struktur data\mod7_stack\header_1302194037.h
+	<iostream>
+
+1585207431 source:d:\data tugas program\struktur data\mod7_stack\body_1302194037.cpp
+	"header_1302194037.h"
+	<iostream>
+
